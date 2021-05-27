@@ -1,8 +1,8 @@
 # TodoApp ✅ (Flutter)
 
-<div style="display: flex;">
-  <img width="48%" style="margin-right: 10px;" src="./screenshots/home.jpg" />
-  <img width="48%" src="./screenshots/add_todo.jpg" />
+<div style="display: flex; justify-content: space-between;">
+  <img width="49%" src="./screenshots/home.jpg" />
+  <img width="49%" src="./screenshots/add_todo.jpg" />
 </div>
 
 ## Libraries Used 🔨
