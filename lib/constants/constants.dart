@@ -1,0 +1,1 @@
+const PADDING_LAYOUT = 16.0;
