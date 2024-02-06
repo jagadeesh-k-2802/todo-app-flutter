@@ -11,7 +11,7 @@
 - Redux Thunk (For async actions)
 - Sqflite (For storing data)
 
-## Building Release Version (Android)
+## Building Release Version (Android) ⚙️
 
 Create a keystore file in /android/app/ using `keytool` command
 
