@@ -1,4 +1,4 @@
-# TodoApp ✅ (Flutter)
+# Todo App ✅ (Flutter)
 
 <div style="display: flex; justify-content: space-between;">
   <img width="250px" src="./screenshots/home.jpg" />
